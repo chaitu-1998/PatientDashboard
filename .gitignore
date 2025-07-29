@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# IDE settings
+.idea/
+*.iml
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Java build
+/target/
+/*.jar
+/*.war
+
+# Frontend build output
+/dist/
+/build/
+
+# OS generated
+Thumbs.db
